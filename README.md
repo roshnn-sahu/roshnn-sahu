@@ -105,6 +105,7 @@ Multer file uploads, and complete CRUD backend.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Motion](https://img.shields.io/badge/Motion-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 **Backend**
 
