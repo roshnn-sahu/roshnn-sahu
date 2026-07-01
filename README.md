@@ -46,7 +46,7 @@ const roshan: Developer = {
   techPhilosophy: "Ship fast. Scale smart. Never compromise on UX.",
 
   openTo:      ["Full-Time Roles", "Freelance Projects", "Open Source Collabs"],
-  portfolio:   "https://dev-roshan-com.vercel.app/",
+  portfolio:   "https://roshansahu.site/",
 };
 ```
 
