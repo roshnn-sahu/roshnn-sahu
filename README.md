@@ -17,8 +17,8 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dev--roshan--com-6366f1?style=for-the-badge&logoColor=white)](https://dev-roshan-com.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-sahu-72b91b371/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dev--roshan--com-6366f1?style=for-the-badge&logoColor=white)](https://roshansahu.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshann-sahu/)
 [![Twitter](https://img.shields.io/badge/Twitter-@hloRoshan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hloRoshan)
 [![Email](https://img.shields.io/badge/Gmail-hello.roshan004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.roshan004@gmail.com)
 [![Cal.com](https://img.shields.io/badge/📅_Book_a_Call-Cal.com-8B5CF6?style=for-the-badge)](https://cal.com/roshan-sahu/30min)
